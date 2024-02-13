@@ -1028,7 +1028,7 @@
     (uuid ff3cbdab-8dd1-4dcb-be22-c937b167eb32)
   )
 
-  (text "Cubo Led" (at 124.46 27.94 0)
+  (text "Cubo Led 3x3\n" (at 124.46 27.94 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid c138602a-f6f5-4a9b-9fc9-e72f3012cc4c)
   )
