@@ -14,3 +14,5 @@ The document have Eletric Diagrams about:
     - LedCube
     - Sensor AHT11
     - Sensor RGB
+    - display TFT GMT130
+    - sensor de efecto hall
