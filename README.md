@@ -16,3 +16,4 @@ The document have Eletric Diagrams about:
     - Sensor RGB
     - display TFT GMT130
     - sensor de efecto hall
+    - Sensor ultrasonico HC-SR04
